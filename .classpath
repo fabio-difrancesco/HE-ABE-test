@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Fabio/Documents/DET-ABE-master" sourcepath="C:/Users/Fabio/Documents/DET-ABE-master"/>
+	<classpathentry kind="lib" path="C:/Users/Fabio/Documents/DET-ABE-master/jpbc-api-2.0.0.jar" sourcepath="C:/Users/Fabio/Downloads/jpbc-2.0.0.zip"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Fabio/Documents/DET-ABE-master/jpbc-plaf-2.0.0.jar" sourcepath="C:/Users/Fabio/Downloads/jpbc-2.0.0.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Fabio/Documents/DET-ABE-master/jPBC library.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
